@@ -37,4 +37,4 @@ def sentiment_analyzer(text_to_analyse):
 
 
 # Test the sentiment analyzer with an example sentence.
-print(sentiment_analyzer("I love this new technology"))
+# print(sentiment_analyzer("I love this new technology"))
